@@ -1,0 +1,6 @@
+*.out 
+*.o
+main
+*.csv
+*.csv#
+*.input
